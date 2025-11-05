@@ -8,17 +8,16 @@ const Herosection = () => {
         <div className='space-y-6'>
           <h1 className='text-4xl md:text-6xl font-bold tracking-tight '>
             <span className='opacity-0 animate-fade-in'>Hi, I'm</span>
-            <span className='text-primary opacity-0 animate-fade-in-delay-1'>Nex.universe</span>
-            <span className='text-gradient ml-2 opacity-0 animate-fade-in-delay-2'>video editor</span>
+            <span className='text-primary opacity-0 animate-fade-in-delay-1'>Nex Universe</span>
+            <span className='text-gradient ml-2 opacity-0 animate-fade-in-delay-2'>video creator</span>
           </h1>
           <p className='text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3'>
-            an experienced video editor. 've worked with a lot of clients, helping bring their vision to life through edits that actually make people stop scrolling.
-            </p>
-
+            a creative video creator with long experience in video editing. I turn your raw clips into short, professional, and engaging videos ready to be posted on Reels, TikTok, and YouTube Shorts. </p>
+         
           <div className='pt-4 opacity-0 animate-fade-in-delay-4'>
             <a href='#projects' className='cosmic-button'>
-              View My Work
-            </a>
+              View My Work 
+           </a>
           </div>
         </div>
       </div>
